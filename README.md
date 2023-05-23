@@ -1,8 +1,9 @@
 # BIHotels - Revenue hospitality
-
-![logo](https://github.com/PuchToTalk/Revenue_Hospitality/assets/90144938/923c1dfd-5433-4537-9676-f6ef9472d8c1)
-
 Teamwork (by 6 members)
+
+
+<img src="https://github.com/PuchToTalk/Revenue_Hospitality/assets/90144938/923c1dfd-5433-4537-9676-f6ef9472d8c1.png" width="20%" height="10%">
+
 
 ![revenue hospitality footage](https://github.com/PuchToTalk/Revenue_Hospitality/assets/90144938/e8db5a51-d571-473f-b756-b07873cb1952)
 
