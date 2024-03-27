@@ -6,9 +6,9 @@ Teamwork (by 6 members)
 1. [Context](#context)
 2. [KPIs](#kpis)
 
-
+<p align="center">
 <img src="https://github.com/PuchToTalk/Revenue_Hospitality/assets/90144938/923c1dfd-5433-4537-9676-f6ef9472d8c1.png" width="20%" height="10%">
-
+</p>
 
 ![revenue hospitality footage](https://github.com/PuchToTalk/Revenue_Hospitality/assets/90144938/e8db5a51-d571-473f-b756-b07873cb1952)
 
